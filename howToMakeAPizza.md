@@ -12,3 +12,4 @@ Receta de Pizza General
 9. Se coloca el horno al maximo por 15 minutos
 10. Se introduce la pizza en el horno por 10 minutos
 11. Se saca la pizza y se divide para las personas
+12. Repartir la pizza
